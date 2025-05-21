@@ -34,7 +34,7 @@ Access the live version at: [Sploaded Casino](https://sploadedcasino.github.io/)
 2. Navigate to the project directory:
 
     ```bash
-    cd sploaded-casino
+    cd SploadedCasino.github.io
     ```
 
 3. Open `index.html` in your browser to run locally
