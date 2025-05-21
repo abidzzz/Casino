@@ -28,7 +28,7 @@ Access the live version at: [Sploaded Casino](https://sploadedcasino.github.io/)
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/[your-username]/sploaded-casino.git
+    git clone https://github.com/SploadedCasino/SploadedCasino.github.io.git
     ```
 
 2. Navigate to the project directory:
